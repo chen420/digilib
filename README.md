@@ -1,3 +1,22 @@
-# My Awesome Book
+# DigiLib Org Books
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+@chenlab
+
+* [http://ai2mc.digilib.org/](http://ai2mc.digilib.org/)
+
+* [http://classroom.digilib.org/](http://classroom.digilib.org/)
+
+* [http://c0.digilib.org/](http://c0.digilib.org/)
+
+@edu2web
+
+* [http://ai2bookjp.digilib.org/](http://ai2bookjp.digilib.org/)
+
+* [http://ai2bookcn.digilib.org/](http://ai2bookcn.digilib.org/)
+
+@galweb
+
+* [http://yunji.digilib.org/](http://yunji.digilib.org/)
+
+
+
